@@ -1,7 +1,6 @@
 ### Hi, i'm Felipe Castro 👋
 
 - 🔭 Procurando primeira oportunidade 
-- 🌱 Estudando React Native
 - 🌱 Focado em desenvolvimento mobile
 - 🤔 Contate-me no email: felipecdc09@gmail.com
 
