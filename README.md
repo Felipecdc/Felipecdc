@@ -1,7 +1,5 @@
 ### Hi, i'm Felipe Castro 👋
 
-- 🔭 Procurando primeira oportunidade 
-- 🌱 Focado em desenvolvimento mobile
 
 <div>
   <a href="https://github.com/Felipecdc">
@@ -10,11 +8,17 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <img align="center" alt="Feh-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Feh-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Feh-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Feh-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="TypeScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="ReactJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="React Native" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-native.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Prisma" height="30" width="40" src="https://www.prisma.io/img/og-image.png">
+  <img align="center" alt="PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="MongoDB" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg">
+  <img align="center" alt="Firebase" height="30" width="40" src="https://www.gstatic.com/devrel-devsite/prod/v361a4d2a3f3c8b0754a9c3bdf7e83476570c3cfd2d2a7ef849e0d9fc2954f137/firebase/images/touchicon-180.png">
 </div>
+
   
   
 <div><br>
