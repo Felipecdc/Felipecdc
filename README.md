@@ -1,7 +1,7 @@
 <h1 align="center">👋 Olá, eu sou o Felipe, um desenvolvedor Full Stack!</h1>
 
 <p align="center">
-  <a href="https://instagram.com/felipe_castoz" target="_blank">
+  <a href="https://instagram.com/felipe_castroz" target="_blank">
     <img src="https://img.shields.io/badge/@felipe_castroz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/felipe-castro-039335267/" target="_blank">
