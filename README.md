@@ -1,40 +1,79 @@
-<h1>👋 &nbsp;Olá, eu sou o Felipe, um desenvolvedor full stack!</h1>
+<h1 align="center">👋 Olá, eu sou o Felipe, um desenvolvedor Full Stack!</h1>
 
-<p align="left">
-  <a href="https://instagram.com/felipe_castoz"><img src="https://img.shields.io/badge/-@felipe_castroz-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/felipe-castro-039335267/"><img src="https://img.shields.io/badge/-Felipe%20Castro-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-  <a href="mailto:felipecdc09@gmail.com"><img src="https://img.shields.io/badge/-felipecdc09@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<p align="center">
+  <a href="https://instagram.com/felipe_castoz" target="_blank">
+    <img src="https://img.shields.io/badge/@felipe_castroz-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/felipe-castro-039335267/" target="_blank">
+    <img src="https://img.shields.io/badge/Felipe%20Castro-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:felipecdc09@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/felipecdc09@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-<h2> 👨🏻‍💻 &nbsp;Sobre mim </h2>
+## 👨🏻‍💻 Sobre mim
 
-- 👨🏻‍💻 &nbsp;Tive meu primeiro contato com linhas de código através do VBA-Excel, buscando facilitar minha vida e a de colegas de trabalho. Após muita satisfação com automações e familiares falando que eu deveria entrar para TI, decidi explorar o desenvolvimento de software como desenvolvedor full stack, sempre em busca de melhorias.
-- 🚀 &nbsp;Atualmente, tenho foco principal no desenvolvimento web e mobile. Utilizo a stack JavaScript (Node.js, React & React Native) para desenvolver em ambas as frentes.
+Meu primeiro contato com programação foi através do **VBA no Excel**, onde descobri minha curiosidade por resolver problemas com código. Desde então, mergulhei no desenvolvimento **Full Stack**, com foco principal em **React**, **Next.js** e **Node.js**, além de experiências com **React Native** para mobile.
 
----
+Tenho construído aplicações completas, integrando front-end moderno com back-ends robustos e bancos de dados escaláveis como **PostgreSQL**, **MongoDB** e **Firebase**.  
+Já trabalhei também com integrações de pagamento (**Stripe, Mercado Pago**), serviços de entrega (**Melhor Envio**) e **APIs REST**.
 
-<h2> 🛠 &nbsp;Tech Stack</h2>
+Atualmente, estou estudando o ecossistema **.NET** com **C#, ASP.NET Core** e **SQLite**, buscando ampliar minhas possibilidades no mercado tech.
 
-<h3>💻 &nbsp;Front-end:</h3>
-
-![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-React_Native-333333?style=flat&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js&logoColor=white)
-
-<h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
-
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+🎓 Último semestre de Análise e Desenvolvimento de Sistemas – Estácio de Sá  
+🚀 Buscando novas oportunidades – remoto ou presencial
 
 ---
 
-<h2>🚀 &nbsp;Mais sobre meu perfil</h2>
+## 🚀 Tecnologias & Ferramentas
 
-![Estatísticas do GitHub de Felipe](https://github-readme-stats.vercel.app/api?username=Felipecdc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+### Front-End:
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Next.js-000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Styled%20Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadcn-F3F4F6?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMDAwMDAwIiB3aWR0aD0iMjAiIGhlaWdodD0iMjAiPjxjaXJjbGUgY3g9IjEwIiBjeT0iMTAiIHI9IjEwIi8+PC9zdmc+" />
+</p>
+
+### Back-End:
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+</p>
+
+### Bancos de Dados:
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+</p>
+
+### Outros:
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS_S3-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mercado%20Pago-009EE3?style=for-the-badge&logo=mercadopago&logoColor=white" />
+  <img src="https://img.shields.io/badge/Melhor%20Envio-00C6D7?style=for-the-badge&logoColor=white" />
+</p>
+
+---
+
+## 💡 Em aprendizado contínuo:
+- .NET / C#
+- Inglês técnico
+- Clean Code e arquitetura de software
+
+---
+
+Se curtir o que viu, bora trocar uma ideia! 😄
