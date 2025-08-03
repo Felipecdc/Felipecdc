@@ -77,3 +77,6 @@ Atualmente, estou estudando o ecossistema **.NET** com **C#, ASP.NET Core** e **
 ---
 
 Se curtir o que viu, bora trocar uma ideia! 😄
+
+
+  <img src="https://pacman.abozanona.me?username=Felipecdc" />
